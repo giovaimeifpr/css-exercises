@@ -18,7 +18,12 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you use all three methods of adding CSS to an HTML file?
+    Yes, using a external link
 - Did you properly link the external CSS file in the HTML file?
+    Yes, it work
 - Does the `div` element have CSS added via the external method?
+    Yes, from styles.css
 - Does the `p` element have CSS added via the internal method?
+    No, external from styles.css
 - Does the `button` element have CSS added via the inline method?
+    No, external from styles.css
