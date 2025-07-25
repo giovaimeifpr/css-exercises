@@ -15,5 +15,8 @@ This will help you further practice adding classes and using class selectors, so
 ### Self Check
 
 - Does each element have a unique class name?
+    Yes, for both elements use button2 - For especific button 'one' and 'two'
 - Did you use the grouping selector for styles that both elements share?
+    Yes, group button2 with elements #one and #two
 - Did you make separate rules for the styles unique to each element?
+    Yes, specific colors and background colors.
